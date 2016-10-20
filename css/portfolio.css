@@ -178,7 +178,7 @@ body {
   height: 100%;
 }
 
-/* line 111, ../scss/portfolio.scss */
+/* line 114, ../scss/portfolio.scss */
 #skills-container {
   flex: 1;
   height: 162px;
@@ -193,18 +193,18 @@ body {
   background-color: #e1effa;
 }
 
-/* line 128, ../scss/portfolio.scss */
+/* line 131, ../scss/portfolio.scss */
 .skill {
   height: 112px;
 }
 
-/* line 131, ../scss/portfolio.scss */
+/* line 134, ../scss/portfolio.scss */
 .sub-skill {
   font-size: 22px;
   font-weight: 500;
 }
 
-/* line 136, ../scss/portfolio.scss */
+/* line 139, ../scss/portfolio.scss */
 #nav-bar {
   box-sizing: border-box;
   width: 100%;
@@ -215,29 +215,29 @@ body {
   box-shadow: 0px 2px 3px 0px gray;
 }
 
-/* line 147, ../scss/portfolio.scss */
+/* line 150, ../scss/portfolio.scss */
 .slash-div {
   background-color: #1A98FA;
 }
 
-/* line 150, ../scss/portfolio.scss */
+/* line 153, ../scss/portfolio.scss */
 .slash-svg-cur {
   background-color: #e1effa;
 }
 
-/* line 154, ../scss/portfolio.scss */
+/* line 157, ../scss/portfolio.scss */
 .slash-cur-nav {
   fill: #1A98FA;
 }
 
-/* line 157, ../scss/portfolio.scss */
+/* line 160, ../scss/portfolio.scss */
 .slash-svg {
   width: 24;
   height: 100%;
   fill: #e4eaf9;
 }
 
-/* line 163, ../scss/portfolio.scss */
+/* line 166, ../scss/portfolio.scss */
 .bx-div {
   box-sizing: border-box;
   flex: 1;
@@ -251,7 +251,7 @@ body {
   position: relative;
 }
 
-/* line 177, ../scss/portfolio.scss */
+/* line 180, ../scss/portfolio.scss */
 .current-bx-div {
   box-sizing: border-box;
   background-color: #e1effa;
@@ -260,23 +260,23 @@ body {
   font-weight: 700;
 }
 
-/* line 187, ../scss/portfolio.scss */
+/* line 190, ../scss/portfolio.scss */
 #blank-nav-div {
   flex: 7;
 }
 
-/* line 190, ../scss/portfolio.scss */
+/* line 193, ../scss/portfolio.scss */
 #b4-div {
   padding-right: 6px;
 }
 
-/* line 193, ../scss/portfolio.scss */
+/* line 196, ../scss/portfolio.scss */
 .nav-link {
   text-decoration: none;
   color: inherit;
 }
 
-/* line 197, ../scss/portfolio.scss */
+/* line 200, ../scss/portfolio.scss */
 .empty-span {
   position: absolute;
   width: 100%;
@@ -285,7 +285,7 @@ body {
   left: 0;
 }
 
-/* line 205, ../scss/portfolio.scss */
+/* line 208, ../scss/portfolio.scss */
 #welcome-div {
   background-color: #1A98FA;
   box-sizing: border-box;
@@ -296,7 +296,7 @@ body {
   padding-right: 8%;
 }
 
-/* line 218, ../scss/portfolio.scss */
+/* line 221, ../scss/portfolio.scss */
 #welcome-text-div {
   color: white;
   width: 90%;
@@ -308,7 +308,7 @@ body {
   text-align: right;
 }
 
-/* line 230, ../scss/portfolio.scss */
+/* line 233, ../scss/portfolio.scss */
 #welcome-text-div a {
   text-decoration: none;
   font-weight: 600;
@@ -316,19 +316,19 @@ body {
   color: #06243B;
 }
 
-/* line 243, ../scss/portfolio.scss */
+/* line 246, ../scss/portfolio.scss */
 #welcome-footer {
   width: 100%;
   display: flex;
 }
 
-/* line 247, ../scss/portfolio.scss */
+/* line 250, ../scss/portfolio.scss */
 #welcome-footer-not-home {
   width: 100%;
   display: none;
 }
 
-/* line 251, ../scss/portfolio.scss */
+/* line 254, ../scss/portfolio.scss */
 .footer-nav {
   display: none;
   line-height: 56px;
@@ -340,7 +340,7 @@ body {
   position: relative;
 }
 
-/* line 264, ../scss/portfolio.scss */
+/* line 267, ../scss/portfolio.scss */
 .footer-div {
   position: relative;
   flex: 2;
@@ -350,18 +350,18 @@ body {
   cursor: pointer;
 }
 
-/* line 272, ../scss/portfolio.scss */
+/* line 275, ../scss/portfolio.scss */
 .footer-img {
   width: 100%;
   min-height: 160px;
 }
 
-/* line 276, ../scss/portfolio.scss */
+/* line 279, ../scss/portfolio.scss */
 .footer-div:hover {
   opacity: 1;
 }
 
-/* line 279, ../scss/portfolio.scss */
+/* line 282, ../scss/portfolio.scss */
 #footer-social {
   background-color: #0D4A7A;
   text-align: center;
@@ -372,7 +372,7 @@ body {
   max-width: 350;
 }
 
-/* line 290, ../scss/portfolio.scss */
+/* line 293, ../scss/portfolio.scss */
 .social-link {
   text-decoration: none;
   margin: 12px;
@@ -380,7 +380,7 @@ body {
   font-size: 36px;
 }
 
-/* line 298, ../scss/portfolio.scss */
+/* line 301, ../scss/portfolio.scss */
 #footer-bio {
   color: white;
   font-weight: 200;
@@ -390,7 +390,7 @@ body {
   margin-top: 12px;
 }
 
-/* line 308, ../scss/portfolio.scss */
+/* line 311, ../scss/portfolio.scss */
 #footer-bio-img {
   width: 70px;
   float: left;
@@ -398,7 +398,7 @@ body {
   padding-left: 6;
 }
 
-/* line 315, ../scss/portfolio.scss */
+/* line 318, ../scss/portfolio.scss */
 h1 {
   font-size: 88px;
   font-weight: 700;
@@ -406,13 +406,13 @@ h1 {
   color: #06243B;
 }
 
-/* line 323, ../scss/portfolio.scss */
+/* line 326, ../scss/portfolio.scss */
 h2 {
   font-size: 30px;
   font-weight: 600;
 }
 
-/* line 327, ../scss/portfolio.scss */
+/* line 330, ../scss/portfolio.scss */
 h3 {
   margin-top: 8px;
   font-size: 16px;
@@ -420,7 +420,7 @@ h3 {
   color: lightslategray;
 }
 
-/* line 333, ../scss/portfolio.scss */
+/* line 336, ../scss/portfolio.scss */
 h4 {
   font-size: 58px;
   font-weight: 500;
@@ -428,7 +428,7 @@ h4 {
   letter-spacing: 1px;
 }
 
-/* line 339, ../scss/portfolio.scss */
+/* line 342, ../scss/portfolio.scss */
 h5 {
   font-size: 38px;
   font-weight: 800;
@@ -437,36 +437,36 @@ h5 {
   padding-right: 6px;
 }
 
-/* line 346, ../scss/portfolio.scss */
+/* line 349, ../scss/portfolio.scss */
 .bullet {
   font-size: 12px;
   line-height: 42px;
 }
 
 @media screen and (max-width: 700px) {
-  /* line 353, ../scss/portfolio.scss */
+  /* line 356, ../scss/portfolio.scss */
   #header-div {
     flex-flow: column;
     height: auto;
   }
 
-  /* line 357, ../scss/portfolio.scss */
+  /* line 360, ../scss/portfolio.scss */
   #color-stripe {
     height: 10px;
     display: none;
   }
 
-  /* line 361, ../scss/portfolio.scss */
+  /* line 364, ../scss/portfolio.scss */
   #triangle {
     display: none;
   }
 
-  /* line 364, ../scss/portfolio.scss */
+  /* line 367, ../scss/portfolio.scss */
   #background-container {
     background-color: #1A98FA;
   }
 
-  /* line 367, ../scss/portfolio.scss */
+  /* line 370, ../scss/portfolio.scss */
   #skills-container {
     background-color: #0D4A7A;
     color: white;
@@ -478,18 +478,18 @@ h5 {
     font-size: 28px;
   }
 
-  /* line 380, ../scss/portfolio.scss */
+  /* line 383, ../scss/portfolio.scss */
   .sub-skill {
     font-size: 20px;
   }
 
-  /* line 383, ../scss/portfolio.scss */
+  /* line 386, ../scss/portfolio.scss */
   #myName {
     width: 100%;
     padding-bottom: 24px;
   }
 
-  /* line 392, ../scss/portfolio.scss */
+  /* line 395, ../scss/portfolio.scss */
   #welcome-div {
     background-color: #C7EAFF;
     box-sizing: border-box;
@@ -499,7 +499,7 @@ h5 {
     margin-bottom: 12px;
   }
 
-  /* line 400, ../scss/portfolio.scss */
+  /* line 403, ../scss/portfolio.scss */
   #welcome-text-div {
     color: #0D4A7A;
     width: 98%;
@@ -508,17 +508,17 @@ h5 {
     text-align: right;
   }
 
-  /* line 407, ../scss/portfolio.scss */
+  /* line 410, ../scss/portfolio.scss */
   h1 {
     font-size: 64px;
   }
 
-  /* line 411, ../scss/portfolio.scss */
+  /* line 414, ../scss/portfolio.scss */
   #nav-bar {
     display: none;
   }
 
-  /* line 414, ../scss/portfolio.scss */
+  /* line 417, ../scss/portfolio.scss */
   #welcome-footer {
     flex-flow: row;
     -webkit-flex-flow: row;
@@ -526,7 +526,7 @@ h5 {
     -webkit-flex-wrap: wrap-reverse;
   }
 
-  /* line 420, ../scss/portfolio.scss */
+  /* line 423, ../scss/portfolio.scss */
   #welcome-footer-not-home {
     flex-flow: row;
     -webkit-flex-flow: row;
@@ -535,7 +535,7 @@ h5 {
     display: flex;
   }
 
-  /* line 427, ../scss/portfolio.scss */
+  /* line 430, ../scss/portfolio.scss */
   #footer-social {
     max-width: none;
     min-width: 100%;
@@ -543,14 +543,14 @@ h5 {
     padding-bottom: 10px;
   }
 
-  /* line 434, ../scss/portfolio.scss */
+  /* line 437, ../scss/portfolio.scss */
   #footer-bio {
     max-width: 350;
     margin: auto;
     margin-top: 24px;
   }
 
-  /* line 439, ../scss/portfolio.scss */
+  /* line 442, ../scss/portfolio.scss */
   .footer-div {
     overflow: hidden;
     min-width: 25%;
@@ -558,7 +558,7 @@ h5 {
     opacity: 1;
   }
 
-  /* line 445, ../scss/portfolio.scss */
+  /* line 448, ../scss/portfolio.scss */
   .footer-nav {
     display: block;
     flex: auto;
